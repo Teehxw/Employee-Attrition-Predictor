@@ -30,7 +30,7 @@ These patterns come from the charts in the notebook:
 
 Overall, pay, workload, and travel stand out, which points to work-life balance as a big part of the story. These are links in the data, not proof of what causes people to leave.
 
-![Top 10 factors](images/top_attrition.png)
+![Top 10 factors](image/top_attrition.png)
 
 The chart above shows the factors the random forest relied on most: MonthlyIncome, Age, TotalWorkingYears, DailyRate, and YearsAtCompany led the list, and OverTime was also in the top 10. It shows which columns matter, not which direction they push. DailyRate, MonthlyRate, and HourlyRate are most likey noise in the dataset
 
